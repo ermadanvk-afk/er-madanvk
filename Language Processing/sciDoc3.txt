@@ -1,0 +1,20 @@
+Bats, Pesticides, and Infant Mortality: A Shocking Connection
+
+Bats play a crucial role in ecosystems by eating insects, but when a fatal disease hit bat populations, it led to unexpected and tragic consequences for humans. According to a new study published in the journal *Science*, farmers in U.S. counties affected by declining bat populations increased their use of insecticides by 31 percent, resulting in an estimated 8 percent rise in infant mortality.
+
+Carmen Messerlian, a reproductive epidemiologist at Harvard, praised the study as groundbreaking. The research thoroughly tested various alternatives, such as unemployment and drug overdoses, but none explained the increase in infant mortality as convincingly as the decline in bats and subsequent rise in pesticide use.
+
+The study highlights the broader consequences of disrupting ecosystems. The lead researcher, Eyal Frank, an environmental economist at the University of Chicago, has previously shown similar effects, such as a die-off of vultures in India that led to half a million excess human deaths. As vultures declined, rotting livestock carcasses polluted water sources and increased the population of feral dogs, spreading diseases like rabies.
+
+In this latest study, Dr. Frank analyzed county-level data on white-nose syndrome in bats, pesticide use, and health indicators, including infant mortality. His findings showed a clear link between the fungal disease that decimated bat populations, the subsequent increase in pesticide use by farmers, and the rise in infant deaths. Two other environmental economists, Jason Shogren and Eli Fenichel, praised Dr. Frank's methodology, noting that his use of both simple and advanced statistical techniques consistently pointed to the same conclusion: more pesticides led to more infant deaths.
+
+Dr. Frank estimated that from 2006 to 2017, 1,334 infant deaths occurred across 245 counties affected by white-nose syndrome. This disease, caused by a fungus, attacks bats during hibernation, covering them with white fuzz and ultimately leading to their demise. First discovered in the Northeast in the mid-2000s, white-nose syndrome has since spread to 40 states and nine Canadian provinces, putting three species of North American bats at risk of severe population declines.
+
+Bats provide essential ecosystem services, particularly in controlling pest insects, yet their contributions are often underappreciated by the public. Winifred Frick, chief scientist at Bat Conservation International, emphasized how critical these services are, noting that we often take them for granted because they happen invisibly.
+
+The complexity of ecosystems, with their intricate interconnections, makes it challenging to quantify the full impact of biodiversity loss. However, economists like Dr. Frank are making strides by searching for natural experiments that reveal these hidden relationships. He stumbled upon this one while exploring data from the United States Geological Survey, where he discovered information about bats and white-nose syndrome. With his background in ecology and economics, he recognized the potential to study the effects of bat population declines on agriculture and human health.
+
+Dr. Frank's findings underscore the importance of bats to agriculture, with earlier estimates putting their value in the billions of dollars per year. Another study found that land rental rates dropped in counties hit by white-nose syndrome, further highlighting the economic impact of losing these vital creatures.
+
+As researchers continue to explore ways to help bats survive white-nose syndrome, the broader lesson is clear: when ecosystems are disrupted, the consequences can extend far beyond the immediate loss of a species. In this case, the decline of bats not only threatened agriculture but also had a direct and devastating impact on human health, increasing the number of infant deaths. This study serves as a sobering reminder of the interconnectedness of nature and the far-reaching effects of biodiversity loss.
+
