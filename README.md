@@ -63,7 +63,7 @@ Each repository contains **clear code, explanations, and reproducible results**.
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/er-madanvk
+- GitHub: https://github.com/ermadanvk-afk
 
 ---
 
